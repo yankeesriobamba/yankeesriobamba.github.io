@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 23,
+    "left": 0,
+    "width": 480,
+    "height": 640,
+    "isRotated": false,
+    "originalWidth": 480,
+    "originalHeight": 687
+  },
+  "imagePath": "image-targets/SUNDAE_luminance.png",
+  "metadata": null,
+  "name": "SUNDAE",
+  "resources": {
+    "originalImage": "SUNDAE_original.png",
+    "croppedImage": "SUNDAE_cropped.png",
+    "thumbnailImage": "SUNDAE_thumbnail.png",
+    "luminanceImage": "SUNDAE_luminance.png"
+  },
+  "created": 1791518260421,
+  "updated": 1791518260421
+}
